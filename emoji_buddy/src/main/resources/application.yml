@@ -1,0 +1,10 @@
+server:
+  port: 9000
+  servlet:
+    context-path: /api
+spring:
+  application:
+    name: buddy-backend
+  data:
+    mongodb:
+      uri: ENC(e3xUIJjTyAUYl0GoxndT4lE4pataMndlzPVqwVEDVES+yMKWNXiOcnwpvwkLqp6BMRA7ZAOLahf9eBMmfRYofMiC188LivekScNBCU3eYIcTFZto47dBrjnqfQPpoNTBA473KnASC+GIbleqZpPTfKvH/POWZufEG/ImoWpCDeE=)
