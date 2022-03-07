@@ -1,4 +1,6 @@
-<img align="center" width="120px" src="./assets/20220216115326.jpg">
+<div align="center"><img src="./assets/20220216115326.jpg" width="120px"/></div>
+
+
 
 <h1 align="center">老铁</h1>
 
@@ -10,6 +12,10 @@
         搜表情，找老铁
     </p>
 </div>
+---
+
+
+
 ![image-20220307162919588](assets/image-20220307162919588.png)
 
 Bug 很多，越修越多~
